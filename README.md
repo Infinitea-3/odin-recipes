@@ -8,3 +8,5 @@ I didn't realize that where you are in the directory at the time of committing a
 
 2) HTML isn't nearly as complicated as I initially made it out to be. Yes I'm saying that after only having dipped my toes in, but
 the hardest part of this project wasn't HTML
+
+06/19/22: Updated the homepage of the website with some CSS. Will go back and transform the other pages as time permits.
