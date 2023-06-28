@@ -10,3 +10,5 @@ I didn't realize that where you are in the directory at the time of committing a
 the hardest part of this project wasn't HTML
 
 06/19/22: Updated the homepage of the website with some CSS. Will go back and transform the other pages as time permits.
+
+06/27/22: Updated the homepage. Again. I'm sorry for whoever has to view this monstronsity, but I promise that I'll find ways to make it worse.
